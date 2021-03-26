@@ -1,7 +1,7 @@
 {
-  "name": "enes-acar-youtube",
+  "name": "melik-exe-banbot",
   "version": "0.0.1",
-  "description": "www.youtube.com/enesacaryoutube Kanalında Videolu Anlatım Bulunmaktadır.",
+  "description": "discord um melik ama yıkık olandan alayım#0061",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"

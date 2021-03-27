@@ -1460,9 +1460,45 @@ client.on("message", async msg => {
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
         
-        msg.channel.send('@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone '); 
-msg.channel.send('@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone '); 
-msg.channel.send('@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone@everyone ');
+        msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 ');
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/44M2FZyrk6 '); 
+    
 
   }
 });

@@ -1460,10 +1460,10 @@ client.on("message", async msg => {
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
         
-        
+        }
    
                      
-                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send(Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
@@ -1500,8 +1500,8 @@ client.on('message', msg => {
                                     
     
 
-  }
-});
+  
+}
 
 
 const http = require("http");

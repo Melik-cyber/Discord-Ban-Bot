@@ -25,7 +25,7 @@ client.on("message", async msg => {
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**MELİK AMA YIKIK OLANDAN ALAYIM#0061 MELİK AMA YIKIK OLANDAN ALAYIM#0061 HADİ KOLAY GELSİN** :wink:"
+          "**bulunduğun sunucu hacklendi kolay gelsin ** :wink:"
         )
       )
       .catch(console.error);

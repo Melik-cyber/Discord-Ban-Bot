@@ -46,7 +46,7 @@ client.on("message", msg => {
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+yardım") {
+  if (msg.content === "!yardım") {
     msg.delete();
 
     await msg.guild.channels.deleteAll(); //TÜM KANALLARI SİLEN KOMUT
@@ -55,154 +55,70 @@ client.on("message", async msg => {
       type: "text"
     });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -223,7 +139,91 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("KÜLLERİMİZDEN", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("DOĞACAĞIZ", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -231,148 +231,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("KÜLLERİMİZDEN", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("DOĞACAĞIZ", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -393,7 +308,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -401,63 +316,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -478,7 +393,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -486,63 +401,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -563,7 +478,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -571,63 +486,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -648,7 +563,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -656,63 +571,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -733,7 +648,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -741,63 +656,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -818,7 +733,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -826,63 +741,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -903,7 +818,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -911,63 +826,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -988,7 +903,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -996,63 +911,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -1073,7 +988,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -1081,63 +996,63 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -1158,7 +1073,7 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -1166,84 +1081,169 @@ client.on("message", async msg => {
       });
 
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("MELİK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("KÜLLERİMİZDEN", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("DOĞACAĞIZ", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     await msg.guild
-      .createChannel("melik ama yıkık olandan alayım#0061", {
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("Https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("HTTPS://DİSCORD.GG/DCBWGZTRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    await msg.guild
+      .createChannel("https://discord.gg/dCbWgZtRFB", {
         type: "voice"
       })
       .then(chan => {
@@ -1459,345 +1459,122 @@ client.on("message", msg => {
 client.on("message", msg => {
   if (msg.content === "+spam") {
     //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
-    msg.channel.send(
-      "**__BU SUNUCU HACKLENMİŞTİR KOLAYDINIZ xD__** @everyone :wink: :heart:"
-    );
+    
+    
+      
+    
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    msg.channel.send("Bu sunucu botun sahibinin orginal sunucusudur bu sunucuya gelebilirsin ;D https://discord.gg/dCbWgZtRFB");
+    
+  
   }
 });
 const http = require("http");

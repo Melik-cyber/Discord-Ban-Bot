@@ -12,7 +12,7 @@
     "request": "^2.88.2"
   },
   "engines": {
-    "node": "12.x"
+    "node": "15.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/hello-express"

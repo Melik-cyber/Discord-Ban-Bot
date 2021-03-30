@@ -5,14 +5,10 @@ const { Client, Util } = require("discord.js");
 const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {
- client.user.setActivity(` 🧠Yapımcım: melik ama yıkık olandan alayım#0061
-                           💖 Destek sunucusu: https://discord.gg/Jb8xskQNnD  
- 
- 
- 
-    `)
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/Jb8xskQNnD`)
  console.log(`${client.user.tag} isimli bot başarıyla şu an aktifleştirildi!`);
 });
+
 
 const http = require("http");
 const express = require("express");

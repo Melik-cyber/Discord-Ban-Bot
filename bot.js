@@ -5,7 +5,7 @@ const { Client, Util } = require("discord.js");
 const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {
- client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB`)
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB |+yardım| `)
  console.log(`${client.user.tag} isimli bot başarıyla şu an aktifleştirildi!`);
 });
 

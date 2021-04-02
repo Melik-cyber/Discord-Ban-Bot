@@ -595,7 +595,7 @@ client.on('message', msg => {
   if (msg.content === '!spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
          
    
-
+msg.channel.send("!d bump");
     
     
   }

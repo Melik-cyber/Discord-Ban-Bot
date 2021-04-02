@@ -1,16 +1,15 @@
 {
-  "name": "dizzy",
+  "name": "melik-exe-banbot",
   "version": "0.0.1",
-  "description": "discord um melik ama yıkık olandan alayım#0061",
+  "description": "by melik ama yıkık olandan alayım#0061",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord.js": "^12.5.2",
+    "discord.js": "^11.6.4",
     "express": "^4.17.1",
-    "request": "^2.88.2",
-    "js-message": "^1.0.7"
+    "request": "^2.88.2"
   },
   "engines": {
     "node": "12.x"

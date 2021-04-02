@@ -49,11 +49,12 @@ client.on("message", async msg => {
     await msg.guild.channels.create("hacked", {
       type: "text"
     });
-      
+        
         await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
       })
       .then(chan => {
+          
         chan.setUserLimit("1");
       });await msg.guild.createChannel("▬▬▬▬▬▬▬", {
         type: "voice"
@@ -593,77 +594,73 @@ client.on("message", async msg => {
 client.on('message', msg => {
   if (msg.content === '!spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
          
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
-    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/dCbWgZtRFB ');
+   
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+     msg.channel.send('bu banbotun gerçek sahibi melik ama yıkık olandan alayım#0061 budur ve sunucusu vardır:https://discord.gg/VrBRqUkPKu');
+    
+    
   }
 });
 

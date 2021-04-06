@@ -5,7 +5,7 @@ const { Client, Util } = require("discord.js");//by diizy'#0061
 const request = require("request");
 client.login(ayarlar.token);
 client.on('ready', () => {//by diizy'#0061//by diizy'#0061
- client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !help `)//by diizy'#0061
+ client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !yardım `)//by diizy'#0061
  console.log(`${client.user.tag} bot aktifleştirildi hayırlı hacklemeler dikkat dava açmasınlar! >:D by dizzy'#0061 `);//by diizy'#0061
 });
 

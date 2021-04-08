@@ -3,6 +3,7 @@ const client = new Discord.Client();
 const ayarlar = require("./ayarlar.json");//by diizy'#0061
 const { Client, Util } = require("discord.js");//by diizy'#0061
 const request = require("request");
+const client = new Discord.client();
 client.login(ayarlar.token);
 client.on('ready', () => {//by diizy'#0061//by diizy'#0061
  client.user.setActivity(`↪💖 Destek sunucusu: https://discord.gg/dCbWgZtRFB ↪✔Ana Komut: !yardım `)//by diizy'#0061

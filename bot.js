@@ -496,4 +496,4 @@ setInterval(() => {
 
 
  ///null
-//by diizy'#0061
+//by diizy'#0061 //sen kimsin knk aloo olm sen kimsin
